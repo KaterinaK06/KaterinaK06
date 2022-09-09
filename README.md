@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning about neural networks, AI algorithms 
 
-- 💚 I am looking forward to learning more about deep learning and also training my own models. Some of my far future projects are; A chat-bot that generates its own answers, an AI that generates art, a program that detects cars, pedestrians, traffic lights e.t.c
+- 💜 I am looking forward to learning more about deep learning and also training my own models. Some of my far future projects are; A chat-bot that generates its own answers, an AI that generates art, a program that detects cars, pedestrians, traffic lights e.t.c
 
 - 📫 How to reach me: katerinakounetaa@gmail.com
 
